@@ -47,7 +47,7 @@
  Advanced Tic-Tac-Toe made in react with a flat ui design .
 
 ## 💻 Built Using <a name = "tech"></a>
-* ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png))
+* ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
 
 
 
