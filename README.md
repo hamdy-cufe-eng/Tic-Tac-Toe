@@ -50,7 +50,7 @@
  Simplified interface for viewing/displaying data .
 
 ## 💻 Built Using <a name = "tech"></a>
-* ![React]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg))
+* ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png))
 
 
 
