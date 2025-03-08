@@ -36,8 +36,6 @@
         <li><a href="#install">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#start">How to start</a></li>
-    <li><a href="#features">Features</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
 	<li><a href="#contributors">Contributors</a></li>
   </ol>
@@ -55,7 +53,7 @@
 
 
 
-## 🏁 Get Started /Installation <a name = "install"></a>
+## 🏁 Get Started /Usage <a name = "install"></a>
 1. **Clone the repository**
 ```
 git clone https://github.com/hamdy-cufe-eng/Tic-Tac-Toe.git
@@ -65,23 +63,6 @@ git clone https://github.com/hamdy-cufe-eng/Tic-Tac-Toe.git
 
 3. **Open the folder in IDE**
 
-4. **install dependencies**
-```
-pip install 
-```
-
-5. **Build the project**
-
-
-6. **You can run through**
-
-
-
-## 📌 How to use <a name = "start"></a>
-
-### Usage :
-
-In the project directory, you can run:
 
 ### `npm start`
 
@@ -94,12 +75,12 @@ You may also see any lint errors in the console.
 ## 📷 Screenshots <a name = "screenshots" ></a>
 
 <div name="Screenshots" align="center">
-   <img width=60% src="Screenshots/Screenshot_1.png" alt="logo">
+   <img width=60% src="Screenshots/image.png" alt="logo">
    <hr>
-    <img width=60% src="Screenshots/Screenshot_3.png" alt="logo">
+    <img width=60% src="Screenshots/image1.png" alt="logo">
     <hr>
   
-   <img width=60% src="Screenshots/Screenshot_2.png" alt="logo">
+   <img width=60% src="Screenshots/image2.png" alt="logo">
    <hr>
 </div>
 
