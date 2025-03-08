@@ -1,5 +1,5 @@
 
-# Getting Started with Create React App
+# Getting Started with Tic-Tac-Toe
 
 <p align="center">
   <a href="" rel="noopener">
@@ -44,8 +44,7 @@
 
 ## About
 
- Advanced Image Viewer with multiple features, 
- Simplified interface for viewing/displaying data .
+ Advanced Tic-Tac-Toe made in react with a flat ui design .
 
 ## 💻 Built Using <a name = "tech"></a>
 * ![React](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png))
